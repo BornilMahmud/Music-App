@@ -1,0 +1,6 @@
+{
+  "name": "BM Player",
+  "description": "Premium, fast, offline-first local audio player & manager for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
